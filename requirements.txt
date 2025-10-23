@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+opencv-python
+numpy
+requests
+python-dotenv
